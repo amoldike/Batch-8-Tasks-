@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+} 
+#first{
+    background: purple;
+    color: white;
+}
+#second{
+    background: blue;
+    color: white;
+}
+p{
+    background: orange;
+    color: white;
+}
+.box{
+    background-color: aqua;
+    color: black;
+    border: Solid red;
+    text-align: center;
+}

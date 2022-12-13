@@ -1,0 +1,152 @@
+body{
+    background-color: red;
+    color: white;
+}
+
+/* Flex-Direction - Row */
+.container1{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction:row;
+}
+.box{
+    background-color: blue;
+    color: white;
+    width:2em;
+    height: 2em;
+    padding: 1em;
+    margin: 1em;
+}
+
+/* Flex-Direction - Column */
+.container2{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+}
+ 
+/* Flex-Direction - Row-reverse */
+.container3{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+/* Flex-Direction - Column-reverse */
+.container4{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+/* Flex-Direction - Row |justify-contain:Space-around */
+.container5{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/* Flex-Direction - Row |justify-contain:Space-between */
+.container6{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* Flex-Direction - Row |justify-contain:Space-evenly */
+.container7{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+/* Flex-Direction - Column | justify-contain:Space-around */
+.container8{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+/* Flex-Direction - Column | justify-contain:Space-between */
+.container9{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Flex-Direction - Column | justify-contain:Space-evenly */
+.container10{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+/* Flex-Direction - Row | Align Items : Flex-Start */
+.container11{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+/* Flex-Direction - Row | Align Items : Center */
+.container12{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* Flex-Direction - Row | Align Items : Flex-end*/
+.container13{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+/* Flex-Direction - Column | Align Items : Flex-Start */
+.container14{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+/* Flex-Direction - Column | Align Items : Center */
+.container15{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Flex-Direction - Column | Align Items : Flex-End */
+.container16{
+    background-color: yellow;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}

@@ -1,0 +1,9 @@
+<!-- https://github.com/fabpot?tab=overview&from=2020-12-01&to=2020-12-31 -->
+
+1. Git Installation/(CLI-command-line interface)
+2. Git Setup
+3. Github Account Setup
+   --> git config --global user.name
+   --> git config --global user.email
+4. Arrange Your Tasks
+5. Tasks Push

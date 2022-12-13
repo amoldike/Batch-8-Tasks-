@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+
+.container{
+    background-color:yellow;
+    display: grid;
+    flex-direction: column;
+
+}
+.box{
+    background-color:purple;
+    color:white;
+    
+    width:2em;
+    height: 2em;
+    padding: 1em;
+    margin: 1em;
+}

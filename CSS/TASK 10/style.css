@@ -1,0 +1,73 @@
+body{
+    background-color:red;
+}
+#first{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#second{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#third{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* --------------------------------------------------- */
+/* Z-index - */
+#box1{
+    background-color: yellow;
+    width: 7em;
+    height: 7em;
+}
+
+#box2{
+    background-color: purple;
+    width: 7em;
+    height: 7em;
+}
+/* ---------------------------------------------------------- */
+
+/* Display - */
+h2{
+    background-color:aqua;
+    display: inline;
+}
+
+link2{
+    background-color:greenyellow;
+    display:block;
+}
+
+link3{
+    background-color:greenyellow;
+    display:inline-block;
+}
+
+/* --------------------------------------------------------------- */
+/* Position - */
+.box{
+    background-color: aqua;
+}
+#button1{
+    background-color: green;
+    position: relative;
+    bottom: 8em;
+    left: 110em;
+    border: 2px solid white;
+}
+#button2{
+    background-color: green;
+    position: absolute;
+    
+    border: 2px solid white;
+}
+#para{
+    background-color:lightseagreen;
+}
+h3{
+    background-color: purple;
+    color: white;
+    display: inline-block;
+    position: fixed;
+    bottom: 1em;
+    left:95em;
+}
+

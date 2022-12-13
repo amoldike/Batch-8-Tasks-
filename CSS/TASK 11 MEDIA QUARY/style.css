@@ -1,0 +1,8 @@
+body{
+    background-color:aqua;
+
+}
+@media all screen and (max-width 820){
+    background-color:red;
+
+}
